@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Nested repo (separate project; add as submodule later if needed)
+onepager-webflowcloud/
+
+# Common build/deps (if any at root later)
+node_modules/
+.next/
+.env*.local
