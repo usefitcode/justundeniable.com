@@ -8,3 +8,9 @@ onepager-webflowcloud/
 node_modules/
 .next/
 .env*.local
+.env
+.webflowrc
+.webflowrc.json
+
+# Tooling
+.playwright-mcp/
